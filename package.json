@@ -1,0 +1,14 @@
+{
+  "name": "myteammate",
+  "version": "1.0.0",
+  "description": "greeting to my teammate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "greeting"
+  ],
+  "author": "fahad",
+  "license": "ISC"
+}
